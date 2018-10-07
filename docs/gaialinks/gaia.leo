@@ -10,9 +10,9 @@
 <find_panel_settings/>
 <vnodes>
 <v t="josephorr.20170624183249.2" a="E"><vh>Gaia's Reference Links</vh>
-<v t="josephorr.20170624183412.1" a="E"><vh>Dance</vh>
+<v t="josephorr.20170624183412.1"><vh>Dance</vh>
 <v t="josephorr.20170930115737.1"><vh>New Swing</vh></v>
-<v t="josephorr.20170930115801.1" a="E"><vh>Popping</vh>
+<v t="josephorr.20170930115801.1"><vh>Popping</vh>
 <v t="josephorr.20171002204522.1"><vh>Nonstop Marquese Scott</vh></v>
 <v t="josephorr.20171014154440.1"><vh>Popping John and Nonstop Marquese Scott</vh></v>
 <v t="josephorr.20180513211918.1"><vh>More</vh></v>
@@ -21,12 +21,12 @@
 </v>
 </v>
 <v t="josephorr.20170624183423.1"><vh>Violin</vh>
-<v t="josephorr.20170930120304.1" a="E"><vh>Performances</vh>
+<v t="josephorr.20170930120304.1"><vh>Performances</vh>
 <v t="josephorr.20170930120450.1"><vh>Classical</vh></v>
 <v t="josephorr.20170930120455.1"><vh>Bluegrass</vh></v>
 <v t="josephorr.20180510054814.1"><vh>Shredding</vh></v>
 </v>
-<v t="josephorr.20170930120313.1"><vh>Suzuki</vh>
+<v t="josephorr.20170930120313.1" a="E"><vh>Suzuki</vh>
 <v t="josephorr.20170930121218.1"><vh>[First Year with Kevin Yen](xttps://www.youtube.com/playlist?list=PLB606F40DF8A11AAE)</vh></v>
 <v t="josephorr.20170930122535.1"><vh>[Sheet Music with Visual Indicator](xttps://www.youtube.com/playlist?list=PLeVVoyYIFjtJUpDswiFr3VPp5zp0apt-3)</vh></v>
 </v>
@@ -42,11 +42,13 @@
 </v>
 </v>
 <v t="josephorr.20180924193513.1" a="E"><vh>Other Videos</vh>
-<v t="josephorr.20180415133607.1"><vh>Timelapse</vh></v>
 <v t="josephorr.20181004183156.1"><vh>Nyangostar</vh></v>
+<v t="josephorr.20180415133607.1"><vh>Timelapse</vh></v>
+<v t="gaia.20181007183643.1"><vh>Other</vh></v>
 </v>
-<v t="josephorr.20180415165210.1" a="E"><vh>Books</vh>
-<v t="josephorr.20181004183318.1" a="E"><vh>Fiction General</vh>
+<v t="gaia.20181007184926.1"><vh>Music Videos</vh></v>
+<v t="josephorr.20180415165210.1"><vh>Books</vh>
+<v t="josephorr.20181004183318.1"><vh>Fiction General</vh>
 <v t="josephorr.20180415170531.1"><vh>@book [Counting by Sevens](9780142422861)</vh></v>
 <v t="josephorr.20180415165407.1"><vh>@book [The Westing Game](9780142401200)</vh></v>
 <v t="josephorr.20180415170558.1"><vh>@book [Where the Mountain Meets the Moon](9780316038638)</vh></v>
@@ -61,11 +63,11 @@
 <v t="josephorr.20180415173122.1"><vh>@book [Are You There God? It's Me Margaret](9780440404194)</vh></v>
 <v t="josephorr.20180415173244.1"><vh>@book [Wonder](9780375869020)</vh></v>
 </v>
-<v t="josephorr.20181004183426.1" a="E"><vh>Graphic Novels</vh>
+<v t="josephorr.20181004183426.1"><vh>Graphic Novels</vh>
 <v t="josephorr.20181004183325.1"><vh>@book [Blankets](9781770462182)</vh></v>
 </v>
 </v>
-<v t="josephorr.20180510054752.1" a="E"><vh>Articles</vh>
+<v t="josephorr.20180510054752.1"><vh>Articles</vh>
 <v t="josephorr.20180513113737.1"><vh>Goal Setting</vh></v>
 </v>
 <v t="josephorr.20180923064907.1" a="E"><vh>Maker Faire 2018</vh>
@@ -83,6 +85,12 @@
 </v>
 </vnodes>
 <tnodes>
+<t tx="gaia.20181007183643.1">&lt;div&gt;
+&lt;youtube video-id="FdYTpqbwAIQ" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
+&lt;/div&gt;</t>
+<t tx="gaia.20181007184926.1">&lt;div&gt;
+&lt;youtube video-id="EQnk-h-LCpQ" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
+&lt;/div&gt;</t>
 <t tx="josephorr.20170624183249.2">@language html
 
 &lt;div class="section-title"&gt;
