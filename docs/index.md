@@ -2,7 +2,7 @@
 
 [Sky's Links](https://kaleguy.github.io/leo-examples/skylinks)
 
-[Gaia's Links](https://kaleguy.github.io/leo-examples/gaialinks)
+[Gaia's Links](gaialinks)
 
 [leo4sqlite](https://kaleguy.github.io/leo-examples/leo4sqlite)
 
