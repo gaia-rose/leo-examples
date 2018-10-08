@@ -82,20 +82,12 @@
 <v t="josephorr.20180924201944.1"><vh>Solar Power</vh></v>
 </v>
 <v t="gaia.20181007184926.1" a="E"><vh>Music Videos</vh>
-<v t="gaia.20181007191248.1" a="E"><vh>Charlie Puth</vh>
-<v t="gaia.20181007192618.1"><vh>The Way I Am</vh></v>
-<v t="gaia.20181007192942.1"><vh>Done For Me</vh></v>
-<v t="gaia.20181007193239.1"><vh>Dangourously</vh></v>
-<v t="gaia.20181007195633.1"><vh>LA Girls</vh></v>
-<v t="gaia.20181007200215.1"><vh>Music Evolution</vh></v>
-</v>
+<v t="gaia.20181007191248.1"><vh>Charlie Puth</vh></v>
 <v t="gaia.20181008115928.1" a="E"><vh>Twenty-one Pilots</vh>
-<v t="gaia.20181008120019.1"><vh>Ride</vh></v>
-<v t="gaia.20181008120414.1"><vh>Heathens</vh></v>
-<v t="gaia.20181008120538.1"><vh>Stressed Out</vh></v>
-<v t="gaia.20181008120839.1"><vh>Heavydirtysoul</vh></v>
 <v t="gaia.20181008121141.1"><vh>Car Radio</vh></v>
-<v t="gaia.20181008121528.1"><vh>newHeadline</vh></v>
+<v t="gaia.20181008121528.1"><vh>Jumpsuit</vh></v>
+<v t="gaia.20181008140401.1"><vh>Guns For Hands</vh></v>
+<v t="gaia.20181008140837.1"><vh>Polarize</vh></v>
 </v>
 </v>
 </v>
@@ -114,40 +106,75 @@
 &lt;h3&gt;We Don't Talk Anymore&lt;/h3&gt;
 &lt;div&gt;
 &lt;youtube video-id="3AtDnEC4zak" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
-&lt;/div&gt;</t>
-<t tx="gaia.20181007192618.1">&lt;div&gt;
+&lt;/div&gt;
+&lt;div class="hshim"&gt;&lt;/div&gt;
+&lt;div class="hshim"&gt;&lt;/div&gt;
+&lt;h3&gt;The Way I Am&lt;/h3&gt;
+&lt;div&gt;
 &lt;youtube video-id="EQnk-h-LCpQ" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
-&lt;/div&gt;</t>
-<t tx="gaia.20181007192942.1">&lt;div&gt;
+&lt;/div&gt;
+&lt;div class="hshim"&gt;&lt;/div&gt;
+&lt;div class="hshim"&gt;&lt;/div&gt;
+&lt;h3&gt;Done For Me&lt;/h3&gt;
+&lt;div&gt;
 &lt;youtube video-id="TdyllLZeviY" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
-&lt;/div&gt;</t>
-<t tx="gaia.20181007193239.1">&lt;div&gt;
+&lt;/div&gt;
+&lt;div class="hshim"&gt;&lt;/div&gt;
+&lt;div class="hshim"&gt;&lt;/div&gt;
+&lt;h3&gt;Dangerously&lt;/h3&gt;
+&lt;div&gt;
 &lt;youtube video-id="TBXQu8ORnBQ" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
-&lt;/div&gt;</t>
-<t tx="gaia.20181007195633.1">&lt;div&gt;
+&lt;/div&gt;
+&lt;div class="hshim"&gt;&lt;/div&gt;
+&lt;div class="hshim"&gt;&lt;/div&gt;
+&lt;h3&gt;LA Girls&lt;/h3&gt;
+&lt;div&gt;
 &lt;youtube video-id="FbXLMDHujhU" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
-&lt;/div&gt;</t>
-<t tx="gaia.20181007200215.1">&lt;div&gt;
+&lt;/div&gt;
+&lt;div class="hshim"&gt;&lt;/div&gt;
+&lt;div class="hshim"&gt;&lt;/div&gt;
+&lt;h3&gt;Music Evolution&lt;/h3&gt;
+&lt;div&gt;
 &lt;youtube video-id="1kpmFxCUBdg" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
 &lt;/div&gt;</t>
-<t tx="gaia.20181008115928.1"></t>
-<t tx="gaia.20181008120019.1">Ride
+<t tx="gaia.20181008115928.1">&lt;h3&gt;Ride&lt;/h3&gt;
 &lt;div&gt;
 &lt;youtube video-id="Pw-0pbY9JeU" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
-&lt;/div&gt;</t>
-<t tx="gaia.20181008120414.1">&lt;div&gt;
+&lt;/div&gt;
+&lt;div class="hshim"&gt;&lt;/div&gt;
+&lt;div class="hshim"&gt;&lt;/div&gt;
+&lt;h3&gt;Heathens&lt;/h3&gt;
+&lt;div&gt;
 &lt;youtube video-id="UprcpdwuwCg" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
-&lt;/div&gt;</t>
-<t tx="gaia.20181008120538.1">&lt;div&gt;
+&lt;/div&gt;
+&lt;div class="hshim"&gt;&lt;/div&gt;
+&lt;div class="hshim"&gt;&lt;/div&gt;
+&lt;h3&gt;Stressed Out&lt;/h3&gt;
+&lt;div&gt;
 &lt;youtube video-id="pXRviuL6vMY" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
-&lt;/div&gt;</t>
-<t tx="gaia.20181008120839.1">&lt;div&gt;
+&lt;/div&gt;
+&lt;div class="hshim"&gt;&lt;/div&gt;
+&lt;div class="hshim"&gt;&lt;/div&gt;
+&lt;h3&gt;Heavydirtysoul&lt;/h3&gt;
+&lt;div&gt;
 &lt;youtube video-id="r_9Kf0D5BTs" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
-&lt;/div&gt;</t>
+&lt;/div&gt;
+&lt;div class="hshim"&gt;&lt;/div&gt;
+&lt;div class="hshim"&gt;&lt;/div&gt;
+&lt;h3&gt;
+</t>
 <t tx="gaia.20181008121141.1">&lt;div&gt;
 &lt;youtube video-id="92XVwY54h5k" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
 &lt;/div&gt;</t>
-<t tx="gaia.20181008121528.1"></t>
+<t tx="gaia.20181008121528.1">&lt;div&gt;
+&lt;youtube video-id="UOUBW8bkjQ4" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
+&lt;/div&gt;</t>
+<t tx="gaia.20181008140401.1">&lt;div&gt;
+&lt;youtube video-id="Pmv8aQKO6k0" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
+&lt;/div&gt;</t>
+<t tx="gaia.20181008140837.1">&lt;div&gt;
+&lt;youtube video-id="MiPBQJq49xk" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
+&lt;/div&gt;</t>
 <t tx="josephorr.20170624183249.2">@language html
 
 &lt;div class="section-title"&gt;
