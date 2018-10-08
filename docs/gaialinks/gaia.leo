@@ -110,12 +110,12 @@
 <t tx="gaia.20181007192618.1">&lt;div&gt;
 &lt;youtube video-id="EQnk-h-LCpQ" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
 &lt;/div&gt;</t>
-<t tx="gaia.20181007192742.1">How Long
+<t tx="gaia.20181007192742.1">&lt;h3&gt;How Long&lt;/h3&gt;
 &lt;div&gt;
 &lt;youtube video-id="CwfoyVa980U" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
 &lt;/div&gt;
 
-We Don't Talk Anymore
+&lt;h3&gt;We Don't Talk Anymore&lt;/h3&gt;
 &lt;div&gt;
 &lt;youtube video-id="3AtDnEC4zak" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
 &lt;/div&gt;</t>
