@@ -9,7 +9,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="josephorr.20170624183249.2" a="E"><vh>Gaia's Reference Links</vh>
+<v t="josephorr.20170624183249.2" a="E"><vh>Gaia's Link Library</vh>
 <v t="josephorr.20170624183412.1"><vh>Dance</vh>
 <v t="josephorr.20170930115737.1"><vh>New Swing</vh></v>
 <v t="josephorr.20170930115801.1"><vh>Popping</vh>
