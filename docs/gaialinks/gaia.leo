@@ -83,7 +83,6 @@
 </v>
 <v t="gaia.20181007184926.1" a="E"><vh>Music Videos</vh>
 <v t="gaia.20181007191248.1" a="E"><vh>Charlie Puth</vh>
-<v t="gaia.20181007192742.1"><vh>How Long</vh></v>
 <v t="gaia.20181007192618.1"><vh>The Way I Am</vh></v>
 <v t="gaia.20181007192942.1"><vh>Done For Me</vh></v>
 <v t="gaia.20181007193239.1"><vh>Dangourously</vh></v>
@@ -106,11 +105,7 @@
 &lt;youtube video-id="FdYTpqbwAIQ" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
 &lt;/div&gt;</t>
 <t tx="gaia.20181007184926.1"></t>
-<t tx="gaia.20181007191248.1"></t>
-<t tx="gaia.20181007192618.1">&lt;div&gt;
-&lt;youtube video-id="EQnk-h-LCpQ" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
-&lt;/div&gt;</t>
-<t tx="gaia.20181007192742.1">&lt;h3&gt;How Long&lt;/h3&gt;
+<t tx="gaia.20181007191248.1">&lt;h3&gt;How Long&lt;/h3&gt;
 &lt;div&gt;
 &lt;youtube video-id="CwfoyVa980U" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
 &lt;/div&gt;
@@ -119,6 +114,9 @@
 &lt;h3&gt;We Don't Talk Anymore&lt;/h3&gt;
 &lt;div&gt;
 &lt;youtube video-id="3AtDnEC4zak" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
+&lt;/div&gt;</t>
+<t tx="gaia.20181007192618.1">&lt;div&gt;
+&lt;youtube video-id="EQnk-h-LCpQ" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
 &lt;/div&gt;</t>
 <t tx="gaia.20181007192942.1">&lt;div&gt;
 &lt;youtube video-id="TdyllLZeviY" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
