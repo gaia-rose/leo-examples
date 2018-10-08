@@ -84,12 +84,19 @@
 <v t="gaia.20181007184926.1" a="E"><vh>Music Videos</vh>
 <v t="gaia.20181007191248.1" a="E"><vh>Charlie Puth</vh>
 <v t="gaia.20181007192742.1"><vh>How Long</vh></v>
-<v t="gaia.20181007192128.1"><vh>We Don't Talk Anymore</vh></v>
 <v t="gaia.20181007192618.1"><vh>The Way I Am</vh></v>
 <v t="gaia.20181007192942.1"><vh>Done For Me</vh></v>
 <v t="gaia.20181007193239.1"><vh>Dangourously</vh></v>
 <v t="gaia.20181007195633.1"><vh>LA Girls</vh></v>
 <v t="gaia.20181007200215.1"><vh>Music Evolution</vh></v>
+</v>
+<v t="gaia.20181008115928.1" a="E"><vh>Twenty-one Pilots</vh>
+<v t="gaia.20181008120019.1"><vh>Ride</vh></v>
+<v t="gaia.20181008120414.1"><vh>Heathens</vh></v>
+<v t="gaia.20181008120538.1"><vh>Stressed Out</vh></v>
+<v t="gaia.20181008120839.1"><vh>Heavydirtysoul</vh></v>
+<v t="gaia.20181008121141.1"><vh>Car Radio</vh></v>
+<v t="gaia.20181008121528.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 </v>
@@ -100,14 +107,17 @@
 &lt;/div&gt;</t>
 <t tx="gaia.20181007184926.1"></t>
 <t tx="gaia.20181007191248.1"></t>
-<t tx="gaia.20181007192128.1">&lt;div&gt;
-&lt;youtube video-id="3AtDnEC4zak" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
-&lt;/div&gt;</t>
 <t tx="gaia.20181007192618.1">&lt;div&gt;
 &lt;youtube video-id="EQnk-h-LCpQ" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
 &lt;/div&gt;</t>
-<t tx="gaia.20181007192742.1">&lt;div&gt;
+<t tx="gaia.20181007192742.1">How Long
+&lt;div&gt;
 &lt;youtube video-id="CwfoyVa980U" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
+&lt;/div&gt;
+
+We Don't Talk Anymore
+&lt;div&gt;
+&lt;youtube video-id="3AtDnEC4zak" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
 &lt;/div&gt;</t>
 <t tx="gaia.20181007192942.1">&lt;div&gt;
 &lt;youtube video-id="TdyllLZeviY" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
@@ -121,6 +131,24 @@
 <t tx="gaia.20181007200215.1">&lt;div&gt;
 &lt;youtube video-id="1kpmFxCUBdg" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
 &lt;/div&gt;</t>
+<t tx="gaia.20181008115928.1"></t>
+<t tx="gaia.20181008120019.1">Ride
+&lt;div&gt;
+&lt;youtube video-id="Pw-0pbY9JeU" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
+&lt;/div&gt;</t>
+<t tx="gaia.20181008120414.1">&lt;div&gt;
+&lt;youtube video-id="UprcpdwuwCg" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
+&lt;/div&gt;</t>
+<t tx="gaia.20181008120538.1">&lt;div&gt;
+&lt;youtube video-id="pXRviuL6vMY" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
+&lt;/div&gt;</t>
+<t tx="gaia.20181008120839.1">&lt;div&gt;
+&lt;youtube video-id="r_9Kf0D5BTs" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
+&lt;/div&gt;</t>
+<t tx="gaia.20181008121141.1">&lt;div&gt;
+&lt;youtube video-id="92XVwY54h5k" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
+&lt;/div&gt;</t>
+<t tx="gaia.20181008121528.1"></t>
 <t tx="josephorr.20170624183249.2">@language html
 
 &lt;div class="section-title"&gt;
