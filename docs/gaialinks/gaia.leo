@@ -41,12 +41,11 @@
 <v t="josephorr.20170930123144.1"><vh>[Squares](https://kaleguy.github.io/squares)</vh></v>
 </v>
 </v>
-<v t="josephorr.20180924193513.1" a="E"><vh>Other Videos</vh>
+<v t="josephorr.20180924193513.1"><vh>Other Videos</vh>
 <v t="josephorr.20181004183156.1"><vh>Nyangostar</vh></v>
 <v t="josephorr.20180415133607.1"><vh>Timelapse</vh></v>
 <v t="gaia.20181007183643.1"><vh>Other</vh></v>
 </v>
-<v t="gaia.20181007184926.1"><vh>Music Videos</vh></v>
 <v t="josephorr.20180415165210.1"><vh>Books</vh>
 <v t="josephorr.20181004183318.1"><vh>Fiction General</vh>
 <v t="josephorr.20180415170531.1"><vh>@book [Counting by Sevens](9780142422861)</vh></v>
@@ -70,7 +69,7 @@
 <v t="josephorr.20180510054752.1"><vh>Articles</vh>
 <v t="josephorr.20180513113737.1"><vh>Goal Setting</vh></v>
 </v>
-<v t="josephorr.20180923064907.1" a="E"><vh>Maker Faire 2018</vh>
+<v t="josephorr.20180923064907.1"><vh>Maker Faire 2018</vh>
 <v t="josephorr.20180923065005.1"><vh>Buildings</vh></v>
 <v t="josephorr.20180923065056.1"><vh>Robots</vh></v>
 <v t="josephorr.20180923065152.1"><vh>Electronics</vh></v>
@@ -82,14 +81,45 @@
 <v t="josephorr.20180924201148.1"><vh>Plants</vh></v>
 <v t="josephorr.20180924201944.1"><vh>Solar Power</vh></v>
 </v>
+<v t="gaia.20181007184926.1" a="E"><vh>Music Videos</vh>
+<v t="gaia.20181007191248.1" a="E"><vh>Charlie Puth</vh>
+<v t="gaia.20181007192742.1"><vh>How Long</vh></v>
+<v t="gaia.20181007192128.1"><vh>We Don't Talk Anymore</vh></v>
+<v t="gaia.20181007192618.1"><vh>The Way I Am</vh></v>
+<v t="gaia.20181007192942.1"><vh>Done For Me</vh></v>
+<v t="gaia.20181007193239.1"><vh>Dangourously</vh></v>
+<v t="gaia.20181007195633.1"><vh>LA Girls</vh></v>
+<v t="gaia.20181007200215.1"><vh>Music Evolution</vh></v>
+</v>
+</v>
 </v>
 </vnodes>
 <tnodes>
 <t tx="gaia.20181007183643.1">&lt;div&gt;
 &lt;youtube video-id="FdYTpqbwAIQ" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
 &lt;/div&gt;</t>
-<t tx="gaia.20181007184926.1">&lt;div&gt;
+<t tx="gaia.20181007184926.1"></t>
+<t tx="gaia.20181007191248.1"></t>
+<t tx="gaia.20181007192128.1">&lt;div&gt;
+&lt;youtube video-id="3AtDnEC4zak" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
+&lt;/div&gt;</t>
+<t tx="gaia.20181007192618.1">&lt;div&gt;
 &lt;youtube video-id="EQnk-h-LCpQ" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
+&lt;/div&gt;</t>
+<t tx="gaia.20181007192742.1">&lt;div&gt;
+&lt;youtube video-id="CwfoyVa980U" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
+&lt;/div&gt;</t>
+<t tx="gaia.20181007192942.1">&lt;div&gt;
+&lt;youtube video-id="TdyllLZeviY" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
+&lt;/div&gt;</t>
+<t tx="gaia.20181007193239.1">&lt;div&gt;
+&lt;youtube video-id="TBXQu8ORnBQ" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
+&lt;/div&gt;</t>
+<t tx="gaia.20181007195633.1">&lt;div&gt;
+&lt;youtube video-id="FbXLMDHujhU" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
+&lt;/div&gt;</t>
+<t tx="gaia.20181007200215.1">&lt;div&gt;
+&lt;youtube video-id="1kpmFxCUBdg" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
 &lt;/div&gt;</t>
 <t tx="josephorr.20170624183249.2">@language html
 
