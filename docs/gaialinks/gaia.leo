@@ -35,7 +35,7 @@
 <v t="josephorr.20180324213759.1"><vh>Learning Piano</vh></v>
 <v t="josephorr.20180324190056.1"><vh>Easy Pieces</vh></v>
 </v>
-<v t="josephorr.20180324212801.1"><vh>Study</vh>
+<v t="josephorr.20180324212801.1" a="E"><vh>Study</vh>
 <v t="josephorr.20180324212901.1"><vh>Other Sites</vh></v>
 <v t="josephorr.20170930123137.1" a="E"><vh>Math</vh>
 <v t="josephorr.20170930123144.1"><vh>[Squares](https://kaleguy.github.io/squares)</vh></v>
@@ -84,9 +84,6 @@
 <v t="gaia.20181007184926.1" a="E"><vh>Music Videos</vh>
 <v t="gaia.20181007191248.1"><vh>Charlie Puth</vh></v>
 <v t="gaia.20181008115928.1" a="E"><vh>Twenty-one Pilots</vh>
-<v t="gaia.20181008121141.1"><vh>Car Radio</vh></v>
-<v t="gaia.20181008121528.1"><vh>Jumpsuit</vh></v>
-<v t="gaia.20181008140401.1"><vh>Guns For Hands</vh></v>
 <v t="gaia.20181008140837.1"><vh>Polarize</vh></v>
 </v>
 </v>
@@ -161,17 +158,26 @@
 &lt;/div&gt;
 &lt;div class="hshim"&gt;&lt;/div&gt;
 &lt;div class="hshim"&gt;&lt;/div&gt;
-&lt;h3&gt;
-</t>
-<t tx="gaia.20181008121141.1">&lt;div&gt;
+&lt;h3&gt;Car Radio&lt;/h3&gt;
+&lt;div&gt;
 &lt;youtube video-id="92XVwY54h5k" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
-&lt;/div&gt;</t>
-<t tx="gaia.20181008121528.1">&lt;div&gt;
+&lt;/div&gt;
+&lt;div class="hshim"&gt;&lt;/div&gt;
+&lt;div class="hshim"&gt;&lt;/div&gt;
+&lt;h3&gt;Jumpsuit&lt;/h3&gt;
+&lt;div&gt;
 &lt;youtube video-id="UOUBW8bkjQ4" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
-&lt;/div&gt;</t>
-<t tx="gaia.20181008140401.1">&lt;div&gt;
+&lt;/div&gt;
+&lt;div class="hshim"&gt;&lt;/div&gt;
+&lt;div class="hshim"&gt;&lt;/div&gt;
+&lt;h3&gt;Guns For Hands&lt;/h3&gt;
+&lt;div&gt;
 &lt;youtube video-id="Pmv8aQKO6k0" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
-&lt;/div&gt;</t>
+&lt;/div&gt;
+&lt;div class="hshim"&gt;&lt;/div&gt;
+&lt;div class="hshim"&gt;&lt;/div&gt;
+,h3
+</t>
 <t tx="gaia.20181008140837.1">&lt;div&gt;
 &lt;youtube video-id="MiPBQJq49xk" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
 &lt;/div&gt;</t>
