@@ -83,9 +83,7 @@
 </v>
 <v t="gaia.20181007184926.1" a="E"><vh>Music Videos</vh>
 <v t="gaia.20181007191248.1"><vh>Charlie Puth</vh></v>
-<v t="gaia.20181008115928.1" a="E"><vh>Twenty-one Pilots</vh>
-<v t="gaia.20181008140837.1"><vh>Polarize</vh></v>
-</v>
+<v t="gaia.20181008115928.1"><vh>Twenty-one Pilots</vh></v>
 </v>
 </v>
 </vnodes>
@@ -176,11 +174,12 @@
 &lt;/div&gt;
 &lt;div class="hshim"&gt;&lt;/div&gt;
 &lt;div class="hshim"&gt;&lt;/div&gt;
-,h3
-</t>
-<t tx="gaia.20181008140837.1">&lt;div&gt;
+&lt;h3&gt;Polarize&lt;/h3&gt;
+&lt;div&gt;
 &lt;youtube video-id="MiPBQJq49xk" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
-&lt;/div&gt;</t>
+&lt;/div&gt;
+
+</t>
 <t tx="josephorr.20170624183249.2">@language html
 
 &lt;div class="section-title"&gt;
@@ -339,7 +338,8 @@ Electronics Course:
 <t tx="josephorr.20180924193248.1">[Engineers Without Borders](http://www.ewbny.org)
 
 [3Ducators](http://3ducators.com)</t>
-<t tx="josephorr.20180924193513.1"></t>
+<t tx="josephorr.20180924193513.1">
+    </t>
 <t tx="josephorr.20180924194554.1">[Makerspace NYC](http://www.makerspace.nyc)
 
 [Fat Cat Fab Lab](http://fatcatfablab.org)</t>
