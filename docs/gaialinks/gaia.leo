@@ -177,7 +177,7 @@
 &lt;h3&gt;Polarize&lt;/h3&gt;
 &lt;div&gt;
 &lt;youtube video-id="MiPBQJq49xk" :player-width="320" :player-height="195"&gt;&lt;/youtube&gt;
-&lt;/div&gt;
+&lt;/div&gt; 
 
 </t>
 <t tx="josephorr.20170624183249.2">@language html
