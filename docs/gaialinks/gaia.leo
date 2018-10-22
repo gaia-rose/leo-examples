@@ -35,7 +35,7 @@
 <v t="josephorr.20180324213759.1"><vh>Learning Piano</vh></v>
 <v t="josephorr.20180324190056.1"><vh>Easy Pieces</vh></v>
 </v>
-<v t="josephorr.20180324212801.1" a="E"><vh>Study</vh>
+<v t="josephorr.20180324212801.1"><vh>Study</vh>
 <v t="josephorr.20180324212901.1"><vh>Other Sites</vh></v>
 <v t="josephorr.20170930123137.1" a="E"><vh>Math</vh>
 <v t="josephorr.20170930123144.1"><vh>[Squares](https://kaleguy.github.io/squares)</vh></v>
@@ -81,9 +81,15 @@
 <v t="josephorr.20180924201148.1"><vh>Plants</vh></v>
 <v t="josephorr.20180924201944.1"><vh>Solar Power</vh></v>
 </v>
-<v t="gaia.20181007184926.1" a="E"><vh>Music Videos</vh>
+<v t="gaia.20181007184926.1"><vh>Music Videos</vh>
 <v t="gaia.20181007191248.1"><vh>Charlie Puth</vh></v>
 <v t="gaia.20181008115928.1"><vh>Twenty-one Pilots</vh></v>
+</v>
+<v t="josephorr.20181022184109.1"><vh>Coding</vh></v>
+<v t="josephorr.20181022184127.1" a="E"><vh>Movies</vh>
+<v t="josephorr.20181022184131.1" a="E"><vh>2018</vh>
+<v t="josephorr.20181022184134.1"><vh>[Crazy Rich Asians](https://en.wikipedia.org/wiki/Crazy_Rich_Asians_(film))</vh></v>
+</v>
 </v>
 </v>
 </vnodes>
@@ -357,5 +363,15 @@ Electronics Course:
 <t tx="josephorr.20181004183318.1"></t>
 <t tx="josephorr.20181004183325.1"></t>
 <t tx="josephorr.20181004183426.1"></t>
+<t tx="josephorr.20181022184109.1">@language md
+
+[Arcade Academy](http://arcade.academy/#)
+
+[Instructions on Using Arcade Academy](https://arcade-book.readthedocs.io/en/latest/)
+
+[Raspberry Pi Stop Motion Project](https://projects.raspberrypi.org/en/projects/push-button-stop-motion)</t>
+<t tx="josephorr.20181022184127.1"></t>
+<t tx="josephorr.20181022184131.1"></t>
+<t tx="josephorr.20181022184134.1"></t>
 </tnodes>
 </leo_file>
